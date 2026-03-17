@@ -71,17 +71,17 @@ Detect anomalous transactions **without labeled data** by leveraging:
 ## 📊 Visual Insights
 
 ### Fraud Rate Over Time
-![Fraud Trend](images/fraud_trend.png)
+![Fraud Trend](Images/fraud_trend.png)
 
 ---
 
 ### Transaction Amount Distribution
-![Distribution](images/distribution.png)
+![Distribution](Images/distribution.png)
 
 ---
 
 ### Fraud vs Normal Comparison
-![Boxplot](images/amount_boxplot.png)
+![Boxplot](Images/amount_boxplot.png)
 
 ---
 
