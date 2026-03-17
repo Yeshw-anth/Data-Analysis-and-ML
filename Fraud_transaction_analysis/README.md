@@ -119,12 +119,13 @@ Detect anomalous transactions **without labeled data** by leveraging:
 ---
 
 ## 📂 Project Files
+```
 fraud-detection/
 │
 ├── fraud_detection.ipynb
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🏆 Key Takeaways
